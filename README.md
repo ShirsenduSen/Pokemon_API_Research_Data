@@ -9,5 +9,5 @@ The first letter of names of the Pokémon should be capitalized.
 The url of the front_default sprite.
 Prepare the data in an appropriate data format. Consider if it should be multiple or a single file.
 
-I have used an configuration file to use all the static inputs
+I have used a configuration file to use all the static inputs
 Rest API call limits are calculated with in the function
